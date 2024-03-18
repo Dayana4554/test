@@ -36,5 +36,5 @@ document.getElementById("submitBTN").addEventListener("click", (e) => {
     });
 });
 document.getElementById("logout").addEventListener("click", (e) => {
-  window.location.href = "https://dayana4554.github.io/";
+  window.location.href = "https://dayana4554.github.io/test/";
 });
